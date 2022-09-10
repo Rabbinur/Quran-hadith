@@ -1,0 +1,14 @@
+ol {
+
+    direction: rtl;
+    list-style-type: -moz-arabic-indic;
+}
+
+li {
+    margin-left: 10px;
+}
+
+.custom-1 {
+    background-color: #FFF9B0;
+    color: black
+}
